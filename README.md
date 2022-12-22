@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Bob
-- 👀 I’m interested in blockchain and some else.
-- 🌱 I’m currently learning some new things.
-- 💞️ I’m looking to collaborate on ...   emmm,I'm not sure yet.
 - 📫 How to reach me , 1203019732@qq.com.
 
 <!---
